@@ -2,7 +2,7 @@
 # coding=utf-8
 
 # platform_node.py
-# https://blog.csdn.net/xc_tsao/article/details/44007143
+# https://www.cnblogs.com/hongten/p/hongten_python_platform.html
 
 import platform
 
