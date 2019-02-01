@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# Copyright (c) 2017 - 2018, doudoudzj
+# Copyright (c) 2018, doudoudzj
 # All rights reserved.
 #
 
